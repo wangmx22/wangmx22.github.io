@@ -64,8 +64,10 @@ I am seeking **Ph.D. opportunities in Operations Research, Management Science, o
 
 Education
 ------
-
+- Double B.S. Computer Science and Technology & Economics and Finance, Tsinghua University, Beijing, China, 2022 - 2026 (Expected)
+- Visiting Undergraduate Student, Harvard University, Cambridge, MA, United States， 2024
+- Academic Visitor, Columbia University, New York, NY, United States, 2025
 
 Preprints
 ------
-Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org). Submitted to *Management Science*. *arXiv preprint arXiv:1234.56789* (2025).
+- Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org). Submitted to *Management Science*. *arXiv preprint arXiv:1234.56789* (2025).
