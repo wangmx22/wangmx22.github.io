@@ -66,8 +66,13 @@ Education
 ------
 - Double B.S. Computer Science and Technology & Economics and Finance, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
 - [Visiting Undergraduate Student](https://college.harvard.edu/admissions/apply/visiting-undergraduate-students), Harvard College, [Harvard University](https://www.harvard.edu/), Fall 2024.
-- Academic Visitor, Department of Industrial Engineering & Operations Research, [Columbia University](https://www.columbia.edu/), 2025.1 - 2025.2. Advisor: [Prof. David Yao](https://www.columbia.edu/~yao/).
+- Academic Visitor, Industrial Engineering & Operations Research, [Columbia University](https://www.columbia.edu/), 2025.1 - 2025.2. Advisor: [Prof. David Yao](https://www.columbia.edu/~yao/).
 
 Preprints
 ------
 - Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org). Submitted to *Management Science*. *arXiv preprint arXiv:1234.56789* (2025).
+
+Arts & Sports
+------
+🎻
+🏂
