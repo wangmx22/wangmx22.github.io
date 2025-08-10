@@ -64,9 +64,9 @@ I am seeking **Ph.D. opportunities in Operations Research, Management Science, o
 
 Education
 ------
-- Double B.S. Computer Science and Technology & Economics and Finance, Tsinghua University, Beijing, China, 2022 - 2026 (Expected)
-- Visiting Undergraduate Student, Harvard University, Cambridge, MA, United States， 2024
-- Academic Visitor, Columbia University, New York, NY, United States, 2025
+- Double B.S. Computer Science and Technology & Economics and Finance, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
+- [Visiting Undergraduate Student](https://college.harvard.edu/admissions/apply/visiting-undergraduate-students), Harvard College, [Harvard University](https://www.harvard.edu/), 2024.
+- Academic Visitor, Department of Industrial Engineering & Operations Research, [Columbia University](https://www.columbia.edu/), 2025.
 
 Preprints
 ------
