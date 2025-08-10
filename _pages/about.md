@@ -66,7 +66,7 @@ Education
 ------
 - Double B.S. Computer Science and Technology & Economics and Finance, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
 - [Visiting Undergraduate Student](https://college.harvard.edu/admissions/apply/visiting-undergraduate-students), Harvard College, [Harvard University](https://www.harvard.edu/), Fall 2024.
-- Academic Visitor, Department of Industrial Engineering & Operations Research, [Columbia University](https://www.columbia.edu/), Spring 2025. Advisor: [Prof. David Yao](https://www.columbia.edu/~yao/).
+- Academic Visitor, Department of Industrial Engineering & Operations Research, [Columbia University](https://www.columbia.edu/), 2025.1 - 2025.2. Advisor: [Prof. David Yao](https://www.columbia.edu/~yao/).
 
 Preprints
 ------
