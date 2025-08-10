@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 browser_title: "Meixuan Wang"
 author_profile: true
 redirect_from: 
