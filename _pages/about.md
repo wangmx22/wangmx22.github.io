@@ -70,7 +70,7 @@ Education
 
 Preprints
 ------
-- Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org). Submitted to *Management Science*. *arXiv preprint arXiv:1234.56789* (2025).
+Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org). Submitted to *Management Science*. *arXiv preprint arXiv:1234.56789* (2025).
 
 Arts & Sports
 ------
