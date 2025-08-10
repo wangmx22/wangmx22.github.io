@@ -74,7 +74,7 @@ Preprints
 
 Talks
 ------
-- "LLM Serving Optimization with Variable Prefill and Decode Lengths", *INFORMS Annual Meeting*, Atlanta, GA, Oct 2025 (Upcoming).
+- "LLM Serving Optimization with Variable Prefill and Decode Lengths", *INFORMS Annual Meeting*, Atlanta, GA, October 2025 (Upcoming).
 
 Arts & Sports
 ------
