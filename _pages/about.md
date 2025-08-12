@@ -84,4 +84,4 @@ Arts & Sports
 
 Contact
 ------
-**Email:** [wangmx22@mails.tsinghua.edu.cn](mailto:wangmx22@mails.tsinghua.edu.cn)
+Email: [wangmx22@mails.tsinghua.edu.cn](mailto:wangmx22@mails.tsinghua.edu.cn)
