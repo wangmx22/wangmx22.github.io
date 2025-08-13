@@ -78,9 +78,9 @@ Talks
 
 Arts & Sports
 ------
-🎻
+🎻 18-year violinist | **Concertmaster** at Tsinghua Symphony.
 
-🏂
+🏂 Multi-sport enthusiast​: snowboard, soccer, badminton, swimming.
 
 Contact
 ------
