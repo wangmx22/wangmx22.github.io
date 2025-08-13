@@ -78,9 +78,11 @@ Talks
 
 Arts & Sports
 ------
-🎻 18-year violinist | **Concertmaster** at Tsinghua Symphony.
+🎻 **18-year violinist | Concertmaster at Tsinghua Symphony:** My favorite symphony is Dvořák's No.8!
 
-🏂 Multi-sport enthusiast​: snowboard, soccer, badminton, swimming.
+♟️ **National Chess Athlete (3rd Grade)​​:** Though my rating has dipped since those tournament days, I am reviving my chess skills - challenge welcome!
+
+🏂 **Multi-sport enthusiast​:** Snowboard & Soccer & Badminton & Swimming.
 
 Contact
 ------
