@@ -78,7 +78,7 @@ Talks
 
 Arts & Sports
 ------
-🎻 **18-year violinist | Concertmaster at Tsinghua Symphony:** My favorite symphony is Dvořák's No.8!
+🎻 **18-year violinist | Concertmaster at Tsinghua Symphony:** My favorite symphonies are Dvořák's No.8 and Mahler's No.1!
 
 ♟️ **National Chess Athlete (3rd Grade)​​:** Though my rating has dipped since those tournament days, I am reviving my chess skills - challenge welcome!
 
