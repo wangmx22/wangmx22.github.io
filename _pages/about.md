@@ -16,9 +16,9 @@ I am seeking **Ph.D. opportunities in Operations Research, Management Science, o
 
 Education
 ------
-- Double B.S. Computer Science and Technology & Economics and Finance, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
-- [Visiting Undergraduate Student](https://college.harvard.edu/admissions/apply/visiting-undergraduate-students), Harvard College, [Harvard University](https://www.harvard.edu/), Fall 2024.
-- Academic Visitor, Industrial Engineering and Operations Research, [Columbia University](https://www.columbia.edu/), 2025.1 - 2025.2. Host by [Prof. David Yao](https://www.columbia.edu/~yao/).
+- **B.S. in Computer Science and Technology** & **B.A. in Economics and Finance**, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
+- **Visiting Undergraduate Student**, Harvard College, [Harvard University](https://www.harvard.edu/), Fall 2024.
+- **Academic Visitor**, Industrial Engineering and Operations Research, [Columbia University](https://www.columbia.edu/), 2025.1 - 2025.2. Host by [Prof. David Yao](https://www.columbia.edu/~yao/).
 
 Awards
 ------
@@ -35,11 +35,11 @@ Talks
 
 Arts & Sports
 ------
-🎻 **18-year violinist | Concertmaster at Tsinghua Symphony:** My favorite symphonies are Dvořák's No.8 and Mahler's No.1!
+🎻 **18-year violinist | Concertmaster at Tsinghua Symphony**: My favorite symphonies are Dvořák's No.8 and Mahler's No.1!
 
-♟️ **National Chess Athlete (3rd Grade)​​:** Though my rating has dipped since those tournament days, I am reviving my chess skills - challenge welcome!
+♟️ **National Chess Athlete (3rd Grade)​​**: Though my rating has dipped since those tournament days, I am reviving my chess skills - challenge welcome!
 
-🏂 **Multi-sport enthusiast​:** Snowboard & Soccer & Badminton & Swimming.
+🏂 **Multi-sport enthusiast​**: Snowboard & Soccer & Badminton & Swimming.
 
 Contact
 ------
