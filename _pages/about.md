@@ -16,7 +16,7 @@ I am seeking **Ph.D. opportunities in Operations Research, Management Science, o
 
 Education
 ------
-- **B.S. in Computer Science and Technology** & **B.A. in Economics and Finance**, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
+- **Double Degree in Computer Science and Technology & Economics and Finance**, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
 - **Visiting Undergraduate Student**, Harvard College, [Harvard University](https://www.harvard.edu/), Fall 2024.
 - **Academic Visitor**, Industrial Engineering and Operations Research, [Columbia University](https://www.columbia.edu/), 2025.1 - 2025.2. Host by [Prof. David Yao](https://www.columbia.edu/~yao/).
 
