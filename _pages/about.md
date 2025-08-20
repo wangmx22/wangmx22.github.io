@@ -23,7 +23,7 @@ My research interests lie broadly in **optimization and decision analytics**, br
 
 I am seeking **Ph.D. opportunities in Operations Research, Management Science, or related fields**​ beginning Fall 2026. If my background aligns with your vision, I would love to connect!​​
 
-<span style="font-size: 1.4em;">Education</span>
+Education
 ------
 - **Double Major in Computer Science and Technology & Economics and Finance**, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
 - **Visiting Undergraduate Student**, Harvard College, [Harvard University](https://www.harvard.edu/), Fall 2024.
