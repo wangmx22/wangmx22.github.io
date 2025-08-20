@@ -15,6 +15,9 @@ redirect_from:
   p {
     margin: 0.8em 0 !important;
   }
+  h2 {
+    margin-top: 0.5em !important; /* 默认是 1em，数值越小越紧凑 */
+  }
 </style>
 
 I am a final-year undergraduate student pursuing a double degree in **​Computer Science and Technology​** and **​Economics and Finance​** at **Tsinghua University**.
