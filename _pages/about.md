@@ -10,10 +10,13 @@ redirect_from:
 
 <style>
   body {
-    font-size: 14px;
+    font-size: 18px;
+  }
+  h1 {
+    font-size: 2em;
   }
   h1, h2, h3 {
-    font-size: 1.2em;
+    font-size: 1.6em;
   }
 </style>
 
