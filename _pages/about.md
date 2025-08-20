@@ -16,7 +16,7 @@ redirect_from:
     margin: 0.8em 0 !important;
   }
   h2 {
-    margin-top: 1em !important; 
+    margin-top: 1.5em !important; 
   }
 </style>
 
