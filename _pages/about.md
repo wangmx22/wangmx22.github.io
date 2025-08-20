@@ -12,6 +12,9 @@ redirect_from:
   body {
     font-size: 17px;
   }
+  p {
+    margin: 0.8em 0 !important;
+  }
 </style>
 
 I am a final-year undergraduate student pursuing a double degree in **​Computer Science and Technology​** and **​Economics and Finance​** at **Tsinghua University**.
