@@ -16,7 +16,7 @@ redirect_from:
     margin: 0.8em 0 !important;
   }
   h2 {
-    margin-top: 0.5em !important; /* 默认是 1em，数值越小越紧凑 */
+    margin-top: 0.8em !important; /* 默认是 1em，数值越小越紧凑 */
   }
 </style>
 
