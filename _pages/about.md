@@ -13,7 +13,7 @@ redirect_from:
     font-size: 17px;
   }
   p {
-    margin: 0.8em 0 !important;
+    margin: 0.6em 0 !important;
   }
   h2 {
     margin-top: 1.8em !important; 
