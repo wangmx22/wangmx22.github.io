@@ -55,5 +55,5 @@ Arts & Sports
 
 Contact
 ------
-- Language: Chinese (native), English (TOEFL 117, speaking 30).
-- Email: [wangmx22@mails.tsinghua.edu.cn](mailto:wangmx22@mails.tsinghua.edu.cn).
+- **Language**: Chinese (native), English (TOEFL 117, speaking 30).
+- **Email**: [wangmx22@mails.tsinghua.edu.cn](mailto:wangmx22@mails.tsinghua.edu.cn).
