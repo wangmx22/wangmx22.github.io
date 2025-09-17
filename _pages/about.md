@@ -39,7 +39,7 @@ Awards
 
 Preprints
 ------
-- Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org/abs/2508.06133). Submitted to *INFORMS Journal on Computing*. *arXiv preprint arXiv:2508.06133* (2025).
+- Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org/abs/2508.06133). Submitted to *Operations Research*. *arXiv preprint arXiv:2508.06133* (2025).
 
 Talks
 ------
