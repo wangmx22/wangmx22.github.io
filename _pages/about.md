@@ -34,7 +34,7 @@ Education
 
 Awards
 ------
-- **Finalist** (Winner to be Announced), [INFORMS Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize), 2025.
+- **Finalist** (Winner to be announced), [INFORMS Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize), 2025.
 - **Honorable Mention**, Mathematical Contest in Modeling, 2024.
 
 Preprints
