@@ -20,7 +20,7 @@ redirect_from:
   }
 </style>
 
-I am a final-year undergraduate student pursuing a double degree in **​Computer Science and Technology​** and **​Economics and Finance​** at **Tsinghua University**.
+I am a final-year undergraduate student pursuing a double degree in **​Computer Science and Technology​ and ​Economics and Finance​** at **Tsinghua University**.
 
 My research interests lie broadly in **operations research and management science**, bridging theoretical rigor with real-world impact. Advised by [Prof. Yinyu Ye](https://stanford.edu/~yyye/) and [Prof. Zijie Zhou](https://sites.mit.edu/zijiezhou/), I have advanced research in ​**optimization for LLM inference**, merging traditional operations research methodologies with next-generation AI systems to deliver timely solutions. I also deeply appreciate the ​research mentorship​ of [Prof. David Yao](https://www.columbia.edu/~yao/), [Prof. Lin William Cong](https://business.cornell.edu/faculty-research/faculty/lc898/), and [Prof. Wu Zhu](https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm), which deepened my understanding of **​theoretical and data-driven approaches** to modeling complex dynamics and processes. Looking ahead, I aim to deepen my current work while actively exploring new frontiers—**remaining open to transformative possibilities**.
 
