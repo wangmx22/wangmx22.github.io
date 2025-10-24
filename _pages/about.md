@@ -51,8 +51,6 @@ Arts & Sports
 
 ♟️ **National Chess Athlete (3rd Grade)​​**: Though it has been long since those tournament days, I am reviving my chess skills - challenge welcome!
 
-🏂 **Multi-sport enthusiast​**: Snowboard & Soccer & Badminton & Swimming.
-
 Contact
 ------
 - **Language**: Chinese (native), English (TOEFL 117, speaking 30).
