@@ -37,7 +37,7 @@ Awards
 - **Finalist**, [INFORMS Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize), 2025.
 - **Honorable Mention**, Mathematical Contest in Modeling, 2024.
 
-Preprints
+Publications
 ------
 - Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org/abs/2508.06133). Submitted to *Operations Research*. *arXiv preprint arXiv:2508.06133* (2025).
 
