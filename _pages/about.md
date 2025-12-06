@@ -22,7 +22,7 @@ redirect_from:
 
 I am a final-year undergraduate student pursuing a dual degree in **​Computer Science and Technology​ & ​Economics and Finance​** at **Tsinghua University**.
 
-My research interests lie broadly in Operations Research and Management Sciences, with a specific focus on the **intersection of OR and Artificial Intelligence**—especially using OR methodologies to shape the next generation of AI infrastructures that are faster, more reliable, more transparent, and fairer. Advised by [Prof. Yinyu Ye](https://stanford.edu/~yyye/) and [Prof. Zijie Zhou](https://sites.google.com/view/zijiezhou/), I have conducted research on **LLM serving optimization**, designing scheduling algorithms under heterogeneous workloads and tight memory constraints. More broadly, I am motivated by questions of efficiency (how to remain robust under uncertainty) and fairness (how to redefine priority beyond throughput or latency to prevent starvation) in large-scale, multi-resource computing systems.
+My research interests lie broadly in Operations Research and Management Sciences, with a specific focus on the **intersection of OR and Artificial Intelligence**—especially using OR methodologies to shape the next generation of AI infrastructures that are faster, more reliable, more transparent, and fairer. Advised by [Prof. Yinyu Ye](https://stanford.edu/~yyye/) and [Prof. Zijie Zhou](https://sites.google.com/view/zijiezhou/), I have conducted research on **LLM serving optimization**, designing scheduling algorithms under heterogeneous workloads and tight memory constraints. More broadly, I am motivated by questions of **efficiency** (how to remain robust under uncertainty) and **fairness** (how to redefine priority beyond throughput or latency to prevent starvation) in large-scale, multi-resource computing systems.
 
 I also deeply appreciate the research mentorship of [Prof. David Yao](https://www.columbia.edu/~yao/), [Prof. Lin William Cong](https://business.cornell.edu/faculty-research/faculty/lc898/), and [Prof. Wu Zhu](https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm), which broadened my perspective on **theoretical and data-driven approaches to modeling complex dynamics and processes**. Looking ahead, I aim to deepen my current work while actively exploring new frontiers—remaining open to transformative possibilities.
 
@@ -30,20 +30,19 @@ I am seeking **Ph.D. opportunities in Operations Research or Management Sciences
 
 Education
 ------
-- **Double Major**, Computer Science and Technology & Economics and Finance, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026
+- **Double Major**, Computer Science and Technology & Economics and Finance, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Sep 2022 - Jun 2026
 - **Visiting Undergraduate Student**, [Harvard College](https://college.harvard.edu/), Fall 2024
-- **Academic Visitor**, Industrial Engineering and Operations Research, [Columbia University](https://www.columbia.edu/), Jan 2025 - Feb 2025. Host by [Prof. David Yao](https://www.columbia.edu/~yao/)
+- **Academic Visitor**, Industrial Engineering and Operations Research, [Columbia University](https://www.columbia.edu/), Jan 2025 - Feb 2025. Hosted by [Prof. David Yao](https://www.columbia.edu/~yao/)
 
 Honors & Awards
 ------
 - **Finalist**, [INFORMS 2025 Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize)
 - **Honorable Mention**, 2024 Mathematical Contest in Modeling
-- **Scholarships**: Huawei Scholarship, Artistic Excellence Scholarship, Athletic Excellence Scholarship
 
 Publications & Presentations
 ------
 - Meixuan Wang, Yinyu Ye, Zijie Zhou. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org/abs/2508.06133). Submitted to *Operations Research*. *arXiv:2508.06133* (2025)
-- - "LLM Serving Optimization with Variable Prefill and Decode Lengths", [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA, Oct 2025
+- "LLM Serving Optimization with Variable Prefill and Decode Lengths", [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA, Oct 2025
 
 Extracurriculars
 ------
