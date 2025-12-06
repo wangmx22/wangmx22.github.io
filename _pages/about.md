@@ -20,7 +20,7 @@ redirect_from:
   }
 </style>
 
-I am a final-year undergraduate student pursuing a dual degree in ​Computer Science and Technology​ & ​Economics and Finance​ at Tsinghua University.
+I am a final-year undergraduate student pursuing a **dual degree** in **​Computer Science and Technology​ & ​Economics and Finance**​ at **Tsinghua University**.
 
 My research interests lie broadly in **Operations Research and Management Sciences**, with a specific focus on the intersection of OR/MS and Artificial Intelligence. Advised by [Prof. Yinyu Ye](https://stanford.edu/~yyye/) and [Prof. Zijie Zhou](https://sites.google.com/view/zijiezhou/), I have conducted research on **LLM serving optimization**, designing scheduling algorithms under heterogeneous workloads and system constraints. More broadly, I am motivated by questions of **efficiency** (how to remain robust under uncertainty) and **fairness** (how to redefine priority beyond throughput or latency to prevent starvation) in large-scale, multi-resource computing systems.
 
