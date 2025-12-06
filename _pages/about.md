@@ -26,7 +26,7 @@ My research interests lie broadly in Operations Research and Management Sciences
 
 I also deeply appreciate the research mentorship of [Prof. David Yao](https://www.columbia.edu/~yao/), [Prof. Lin William Cong](https://business.cornell.edu/faculty-research/faculty/lc898/), and [Prof. Wu Zhu](https://www.sem.tsinghua.edu.cn/en/info/1216/7050.htm), which broadened my perspective on **theoretical and data-driven approaches** to modeling complex dynamics and processes. Looking ahead, I aim to deepen my current work while actively exploring new frontiers—remaining open to transformative possibilities.
 
-I am seeking **Ph.D. opportunities in Operations Research or Management Sciences**​ beginning Fall 2026. If my background aligns with your vision, I would love to connect!​​
+I am seeking **Ph.D. opportunities** in **OR/MS**​ beginning Fall 2026. If my background aligns with your vision, I would love to connect!​​
 
 Education
 ------
