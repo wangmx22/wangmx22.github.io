@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
   body {
-    font-size: 17px;
+    font-size: 16px;
   }
   p {
     margin: 0.6em 0 !important;
