@@ -9,14 +9,26 @@ redirect_from:
 ---
 
 <style>
-  body {
-    font-size: 16px;
+<style>
+  body { font-size: 16px; }
+
+  p { margin: 0.6em 0 !important; }
+  h2 { margin-top: 1.5em !important; }
+
+  /* 两端对齐：正文段落 + 列表项 */
+  .page__content p,
+  .page__content li{
+    text-align: justify !important;
+    text-justify: inter-word;      /* 英文更自然 */
+    hyphens: auto;                 /* 允许英文断词，减少“大空格” */
+    overflow-wrap: break-word;     /* 防止长单词/链接撑破 */
   }
-  p {
-    margin: 0.6em 0 !important;
-  }
-  h2 {
-    margin-top: 1.5em !important; 
+
+  /* 标题保持左对齐 */
+  .page__content h1,
+  .page__content h2,
+  .page__content h3{
+    text-align: left !important;
   }
 </style>
 
