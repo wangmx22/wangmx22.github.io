@@ -28,24 +28,22 @@ I am seeking **Ph.D. opportunities in Operations Research, Management Sciences, 
 
 Education
 ------
-- **Double Major in Computer Science and Technology & Economics and Finance**, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026 (Expected).
-- **Visiting Undergraduate Student**, Harvard College, [Harvard University](https://www.harvard.edu/), Fall 2024.
-- **Academic Visitor**, Industrial Engineering and Operations Research, [Columbia University](https://www.columbia.edu/), 2025.1 - 2025.2. Host by [Prof. David Yao](https://www.columbia.edu/~yao/).
+- **Double Major**, Computer Science and Technology & Economics and Finance, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2022 - 2026
+- **Visiting Undergraduate Student**, [Harvard College](https://college.harvard.edu/), Fall 2024
+- **Academic Visitor**, Industrial Engineering and Operations Research, [Columbia University](https://www.columbia.edu/), Jan 2025 - Feb 2025. Host by [Prof. David Yao](https://www.columbia.edu/~yao/)
 
-Awards
+Honors & Awards
 ------
-- **Finalist**, [INFORMS Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize), 2025.
-- **Honorable Mention**, Mathematical Contest in Modeling, 2024.
+- **Finalist**, [INFORMS 2025 Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize)
+- **Honorable Mention**, 2024 Mathematical Contest in Modeling
+- **Scholarships**: Huawei Scholarship, Artistic Excellence Scholarship, Athletic Excellence Scholarship
 
-Publications
+Publications & Presentations
 ------
-- Meixuan Wang, Yinyu Ye, Zijie Zhou. 2025. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org/abs/2508.06133). Submitted to *Operations Research*. *arXiv preprint arXiv:2508.06133* (2025).
+- Meixuan Wang, Yinyu Ye, Zijie Zhou. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org/abs/2508.06133). Submitted to *Operations Research*. *arXiv:2508.06133* (2025)
+- - "LLM Serving Optimization with Variable Prefill and Decode Lengths", [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA, Oct 2025
 
-Talks
-------
-- "LLM Serving Optimization with Variable Prefill and Decode Lengths", [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA, October 2025.
-
-Arts & Sports
+Extracurriculars
 ------
 🎻 **18-year violinist | Concertmaster at Tsinghua Symphony**: My favorite symphonies are Dvořák's No.8 and Mahler's No.1! 
 
@@ -53,5 +51,5 @@ Arts & Sports
 
 Contact
 ------
-- **Language**: Chinese (native), English (TOEFL 117, speaking 30).
-- **Email**: [wangmx22@mails.tsinghua.edu.cn](mailto:wangmx22@mails.tsinghua.edu.cn).
+- **Language**: Chinese (native), English (TOEFL 117, speaking 30)
+- **Email**: [wangmx22@mails.tsinghua.edu.cn](mailto:wangmx22@mails.tsinghua.edu.cn)
