@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style>
-  body { font-size: 14px; }
+  body { font-size: 16px; }
 
   p { margin: 0.6em 0 !important; }
   h2 { margin-top: 1.5em !important; }
