@@ -52,7 +52,7 @@ Honors & Awards
 
 Publications & Presentations
 ------
-- **Meixuan Wang**, Yinyu Ye, Zijie Zhou. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org/abs/2508.06133). Submitted to *Operations Research*. *arXiv:2508.06133* (2025)
+- **Meixuan Wang**, Yinyu Ye, Zijie Zhou. [LLM Serving Optimization with Variable Prefill and Decode Lengths](https://arxiv.org/abs/2508.06133). Under Review at *Operations Research*. *arXiv:2508.06133* (2025)
 - **Meixuan Wang**, "LLM Serving Optimization with Variable Prefill and Decode Lengths", [*INFORMS Annual Meeting*](https://meetings.informs.org/wordpress/annual/), Atlanta, GA, Oct 2025
 
 Extracurriculars
